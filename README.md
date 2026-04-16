@@ -6,9 +6,9 @@ PowerShell script built to automate Active Directory user provisioning.
 This project was created to reduce manual account setup time and improve consistency during user provisioning.
 
 ## What It Does
-- Automates parts of Active Directory user creation
-- Reduces repetitive manual entry
-- Helps standardize account setup
+- Automates Active Directory user account creation
+- Reduces repetitive manual input during provisioning
+- Helps standardize account setup across users
 
 ## Technologies Used
 - PowerShell
@@ -18,4 +18,4 @@ This project was created to reduce manual account setup time and improve consist
 I wanted to improve the speed and consistency of account provisioning while building a more practical automation workflow.
 
 ## Notes
-This project reflects my interest in systems administration, automation, and improving IT workflows.
+This project uses placeholder values for domains and credentials. It reflects my interest in systems administration, automation, and improving IT workflows.
