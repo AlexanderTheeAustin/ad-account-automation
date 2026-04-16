@@ -1,0 +1,14 @@
+# PowerShell
+*.ps1xml
+*.psc1
+*.pssc
+
+# Logs
+*.log
+
+# VS Code
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
