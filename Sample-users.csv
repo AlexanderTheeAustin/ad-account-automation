@@ -1,0 +1,3 @@
+FirstName,LastName,Department,Title,OUPath,Password,Groups
+John,Doe,IT,Support Technician,"OU=Users,DC=domain,DC=local","ChangeMe123!","HelpDesk;VPN Users"
+Jane,Smith,HR,HR Generalist,"OU=Users,DC=domain,DC=local","ChangeMe123!","HR;All Staff"
